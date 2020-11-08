@@ -7,7 +7,7 @@ const autos = [
 		puertas: 2,
 		color: 'Blanco',
 		transmision: 'automatico',
-		imagen: '../images-cars/BMW-M3-01.jpg'
+		imagen: './images-cars/BMW-M3-01.jpg'
 	},
 	{ 
         marca: 'Audi', 
@@ -17,7 +17,7 @@ const autos = [
         puertas: 4, 
         color: 'Negro', 
 		transmision: 'automatico',
-		imagen:'../images-cars/AUDI-RS7-01.jpg'
+		imagen:'./images-cars/AUDI-RS7-01.jpg'
     },
 	{
 		marca: 'Ford',
@@ -27,7 +27,7 @@ const autos = [
 		puertas: 2,
 		color: 'Blanco',
 		transmision: 'automatico',
-		imagen:'../images-cars/FORD-MUSTANG-01.jpg'
+		imagen:'./images-cars/FORD-MUSTANG-01.jpg'
 	},
 	{
 		marca: 'Dodge',
@@ -37,7 +37,7 @@ const autos = [
 		puertas: 4,
 		color: 'Blanco',
 		transmision: 'automatico',
-		imagen:'../images-cars/DODGE-CHARGEN-01.jpg'
+		imagen:'./images-cars/DODGE-CHARGEN-01.jpg'
 	},
 	/*{ 
         marca: 'Audi', 
